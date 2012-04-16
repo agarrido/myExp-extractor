@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=4" resource="http://www.myexperiment.org/workflows/4" version="2">
+  <id>4</id>
+  <title>EBI InterProScan</title>
+  <description>EBI InterProScan. Stop fannying around with BLAST and use InterProScan instead.</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/6" uri="http://www.myexperiment.org/user.xml?id=6">Duncan Hull</uploader>
+  <created-at>Wed Oct 03 18:35:46 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/4/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/4/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/4/download/ebi_interproscan_2846.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=39" resource="http://www.myexperiment.org/tags/39">bioinformatics</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=447" resource="http://www.myexperiment.org/tags/447">sanger sequencing</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=448" resource="http://www.myexperiment.org/tags/448">satellite</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=449" resource="http://www.myexperiment.org/tags/449">scaffold</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=5" resource="http://www.myexperiment.org/workflows/5" version="2">
+  <id>5</id>
+  <title>DOI2PMID</title>
+  <description>Converts Digital Object Identifiers into their corresponding PubMed identifiers, if they exist.</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/6" uri="http://www.myexperiment.org/user.xml?id=6">Duncan Hull</uploader>
+  <created-at>Wed Oct 03 18:35:47 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/5/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/5/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/5/download/doi2pmid_27025.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=450" resource="http://www.myexperiment.org/tags/450">scampi</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=451" resource="http://www.myexperiment.org/tags/451">search</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=452" resource="http://www.myexperiment.org/tags/452">seed alignment</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=453" resource="http://www.myexperiment.org/tags/453">SEG</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=6" resource="http://www.myexperiment.org/workflows/6" version="2">
+  <id>6</id>
+  <title>Genome annotation pipeline demonstrator workflow for Nucleic Acids Research</title>
+  <description>Part of a workflow by Hannah Tipney, adapted by Duncan Hull using GenScan, RepeatMasker and BLAST.&#13;
+&#13;
+http://dx.doi.org/10.1093/nar/gkl320</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/6" uri="http://www.myexperiment.org/user.xml?id=6">Duncan Hull</uploader>
+  <created-at>Wed Oct 03 18:35:47 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/6/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/6/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/6/download/genome_annotation_pipeline_demonstrator_workflow_for_nucleic_acids_research_26962.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=39" resource="http://www.myexperiment.org/tags/39">bioinformatics</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=454" resource="http://www.myexperiment.org/tags/454">segregation</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=455" resource="http://www.myexperiment.org/tags/455">sequence</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=456" resource="http://www.myexperiment.org/tags/456">sequence assembly</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=457" resource="http://www.myexperiment.org/tags/457">sequence tagged site</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=7" resource="http://www.myexperiment.org/workflows/7" version="2">
+  <id>7</id>
+  <title>Fetch Dragon images from BioMoby v2</title>
+  <description>demonstration to ISSGC07</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/16" uri="http://www.myexperiment.org/user.xml?id=16">David De Roure</uploader>
+  <created-at>Wed Oct 03 18:35:48 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/7/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/7/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/7/download/fetch_dragon_images_from_biomoby_v2_24601.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags/>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=10" resource="http://www.myexperiment.org/workflows/10" version="4">
+  <id>10</id>
+  <title>HUMAN Microarray CEL file to candidate pathways</title>
+  <description>&lt;p&gt;This workflow takes in a CEL file and a normalisation method then returns a series of images/graphs which represent the same output obtained using the MADAT software package (MicroArray Data Analysis Tool) [http://www.bioinf.manchester.ac.uk/MADAT/index.html]. Also returned by this workflow are a list of the top differentialy expressed genes (size dependant on the number specified as input - geneNumber), which are then used to find the candidate pathways which may be influencing the observed changes in the microarray data. By identifying the candidate pathways, more detailed insights into the gene expression data can be obtained.  NOTE - You will also need to install R and Rserv on your machine and install the libaries required by the R script into you R library directory (see for basic info: http://www.cs.man.ac.uk/~fisherp/rlib.html)  The example inputs for this workflow are as follows: Samples1 = one or more CEL files for cross-correlating with Samples2 CEL files (new line separated including the .CEL):  Liver_Day1_Mouse.CEL Liver_Day2_Mouse.CEL  Samples2 = one or more CEL files for cross-correlating with Samples1 CEL files (new line separated including the .CEL): Kideny_Day1_Mouse.CEL Kidney_Day2_Mouse.CEL  geneNumber = the number of differentialy expressed gene to be returned above a given p-value, e.g. 20 arrayTypeAffy = the name of the Mouse AffyMetrix array used, e.g. mouse4302, hgu133a... path = the direct path to the CEL file location, e.g. C:/Microarray_Data/CEL_FILES/ - note the forward slashes NormalizationMethod = the type of normalisation to perfrom, e.g. rma, gcrma or mmgmos testMethod = e.g. limma, mmtest or pplr p-value = the p-value cut-off value for the array data, e.g. 0.05 foldChange = the fold change value for the microarray data, e.g. 1 (means greater than 1 or less than -1)&lt;/p&gt;</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:35:55 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/10/versions/4/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/10/versions/4/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/10/download/microarray_cel_file_to_candidate_pathways_17032.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=462" resource="http://www.myexperiment.org/tags/462">shim</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=305" resource="http://www.myexperiment.org/tags/305">microarray</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=589" resource="http://www.myexperiment.org/tags/589">cel</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=590" resource="http://www.myexperiment.org/tags/590">file</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=368" resource="http://www.myexperiment.org/tags/368">pathways</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=573" resource="http://www.myexperiment.org/tags/573">pathway-driven</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=377" resource="http://www.myexperiment.org/tags/377">phenotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=275" resource="http://www.myexperiment.org/tags/275">kegg</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=214" resource="http://www.myexperiment.org/tags/214">genotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=694" resource="http://www.myexperiment.org/tags/694">nbiconworkflows</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=694" resource="http://www.myexperiment.org/tags/694">nbiconworkflows</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=748" resource="http://www.myexperiment.org/tags/748">affymetrix</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=12" resource="http://www.myexperiment.org/workflows/12" version="2">
+  <id>12</id>
+  <title>Transcribe a DNA sequence into an RNA sequence</title>
+  <description>This workflow transcribes a DNA sequence into an RNA sequence</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:35:58 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/12/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/12/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/12/download/transcribe_a_dna_sequence_into_an_rna_sequence_27205.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=502" resource="http://www.myexperiment.org/tags/502">transcription</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=594" resource="http://www.myexperiment.org/tags/594">transcribe</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=121" resource="http://www.myexperiment.org/tags/121">DNA</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=445" resource="http://www.myexperiment.org/tags/445">RNA</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=13" resource="http://www.myexperiment.org/workflows/13" version="3">
+  <id>13</id>
+  <title>KEGG pathways common to both QTL and microarray based investigations</title>
+  <description>&lt;p&gt;This workflow takes in two lists of KEGG pathway ids. These are designed to come from pathways found from genes in a QTL (Quantitative Trait Loci) region, and from pathways found from genes differentially expressed in a microarray study. By identifying the intersecting pathways from both studies, a more informative picture is obtained of the candidate processes involved in the expression of a phenotype.&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;Example input for this workflow is given below (as newline separated values).&lt;/p&gt;&#13;
+&lt;p&gt;qtl_pathways:&lt;/p&gt;&#13;
+&lt;p&gt;path:mmu04060&lt;br /&gt;&#13;
+path:mmu04370&lt;br /&gt;&#13;
+path:mmu04510&lt;br /&gt;&#13;
+path:mmu04060&lt;br /&gt;&#13;
+path:mmu04670&lt;br /&gt;&#13;
+path:mmu00040&lt;br /&gt;&#13;
+path:mmu00150&lt;br /&gt;&#13;
+path:mmu00500&lt;br /&gt;&#13;
+path:mmu00860&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;microarray_pathways:&lt;/p&gt;&#13;
+&lt;p&gt;path:mmu04060&lt;br /&gt;&#13;
+path:mmu04370&lt;br /&gt;&#13;
+path:mmu00040&lt;br /&gt;&#13;
+path:mmu00150&lt;br /&gt;&#13;
+path:mmu00500&lt;br /&gt;&#13;
+path:mmu00860&lt;/p&gt;</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Tue Nov 24 17:14:43 UTC 2009</created-at>
+  <preview>http://www.myexperiment.org/workflows/13/versions/3/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/13/versions/3/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/13/download/kegg_pathways_common_to_both_qtl_and_microarray_based_investigations_869806.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=464" resource="http://www.myexperiment.org/tags/464">similarity</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=597" resource="http://www.myexperiment.org/tags/597">common</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=368" resource="http://www.myexperiment.org/tags/368">pathways</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=119" resource="http://www.myexperiment.org/tags/119">disease</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=366" resource="http://www.myexperiment.org/tags/366">pathway</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=214" resource="http://www.myexperiment.org/tags/214">genotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=573" resource="http://www.myexperiment.org/tags/573">pathway-driven</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=574" resource="http://www.myexperiment.org/tags/574">data-driven</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=275" resource="http://www.myexperiment.org/tags/275">kegg</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=377" resource="http://www.myexperiment.org/tags/377">phenotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=305" resource="http://www.myexperiment.org/tags/305">microarray</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=14" resource="http://www.myexperiment.org/workflows/14" version="2">
+  <id>14</id>
+  <title>Cow-Human Ortholog Pathways and Gene annotations for QTL Phenotype</title>
+  <description>&lt;div class="contribution_description"&gt;&#13;
+&lt;p&gt;This workflow searches for genes which reside in a QTL (Quantitative Trait Loci) region in the cow, Bos taurus. The workflow requires an input of: a chromosome name or number; a QTL start base pair position; QTL end base pair position. Data is then extracted from BioMart to annotate each of the genes found in this region. As the Cow genome is currently unfinished, the workflow subsequently maps the cow ensembl gene ids to human orthologues. Entrez and UniProt identifiers are then identified and sent to KEGG to obtain KEGG gene identifiers. The KEGG gene identifiers are then used to searcg for pathways in the KEGG pathway database.&lt;/p&gt;&#13;
+&lt;p&gt;Example input:&lt;/p&gt;&#13;
+&lt;p&gt;chromosome_name: 17&lt;/p&gt;&#13;
+&lt;p&gt;start_position: 58127155&lt;/p&gt;&#13;
+&lt;p&gt;end_position: 68127155&lt;/p&gt;&#13;
+&lt;/div&gt;</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:36:00 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/14/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/14/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/14/download/pathways_and_gene_annotations_for_qtl_phenotype_25510.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=694" resource="http://www.myexperiment.org/tags/694">nbiconworkflows</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=15" resource="http://www.myexperiment.org/workflows/15" version="5">
+  <id>15</id>
+  <title>Entrez Gene to KEGG Pathway</title>
+  <description>This workflow takes in Entrez gene ids then adds the string "ncbi-geneid:" to the start of each gene id. These gene ids are then cross-referenced to KEGG gene ids. Each KEGG gene id is then sent to the KEGG pathway database and its relevant pathways returned.</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Tue Nov 30 12:18:52 UTC 2010</created-at>
+  <preview>http://www.myexperiment.org/workflows/15/versions/5/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/15/versions/5/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=3" resource="http://www.myexperiment.org/licenses/3">by</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/15/download/entrez_gene_to_kegg_pathway_243112.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=573" resource="http://www.myexperiment.org/tags/573">pathway-driven</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=366" resource="http://www.myexperiment.org/tags/366">pathway</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=462" resource="http://www.myexperiment.org/tags/462">shim</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=377" resource="http://www.myexperiment.org/tags/377">phenotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=214" resource="http://www.myexperiment.org/tags/214">genotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=145" resource="http://www.myexperiment.org/tags/145">entrez</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=275" resource="http://www.myexperiment.org/tags/275">kegg</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=368" resource="http://www.myexperiment.org/tags/368">pathways</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=335" resource="http://www.myexperiment.org/tags/335">ncbi</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=16" resource="http://www.myexperiment.org/workflows/16" version="7">
+  <id>16</id>
+  <title>Pathways and Gene annotations for QTL region</title>
+  <description>&lt;p&gt;This workflow searches for genes which reside in a QTL (Quantitative Trait Loci) region in the mouse, Mus musculus. The workflow requires an input of: a chromosome name or number; a QTL start base pair position; QTL end base pair position. Data is then extracted from BioMart to annotate each of the genes found in this region. The Entrez and UniProt identifiers are then sent to KEGG to obtain KEGG gene identifiers. The KEGG gene identifiers are then used to searcg for pathways in the KEGG pathway database.&lt;/p&gt;</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=2" resource="http://www.myexperiment.org/content_types/2">Taverna 2</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Fri Sep 02 11:43:00 UTC 2011</created-at>
+  <preview>http://www.myexperiment.org/workflows/16/versions/7/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/16/versions/7/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=2" resource="http://www.myexperiment.org/licenses/2">by-sa</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/16/download/pathways_and_gene_annotations_forqtl_region_290738.t2flow</content-uri>
+  <content-type>application/vnd.taverna.t2flow+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=462" resource="http://www.myexperiment.org/tags/462">shim</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=366" resource="http://www.myexperiment.org/tags/366">pathway</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=412" resource="http://www.myexperiment.org/tags/412">qtl</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=275" resource="http://www.myexperiment.org/tags/275">kegg</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=214" resource="http://www.myexperiment.org/tags/214">genotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=377" resource="http://www.myexperiment.org/tags/377">phenotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=574" resource="http://www.myexperiment.org/tags/574">data-driven</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=573" resource="http://www.myexperiment.org/tags/573">pathway-driven</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=368" resource="http://www.myexperiment.org/tags/368">pathways</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=119" resource="http://www.myexperiment.org/tags/119">disease</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=694" resource="http://www.myexperiment.org/tags/694">nbiconworkflows</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=580" resource="http://www.myexperiment.org/tags/580">mouse</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=1307" resource="http://www.myexperiment.org/tags/1307">subworkflow</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=69" resource="http://www.myexperiment.org/tags/69">chromosome</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=144" resource="http://www.myexperiment.org/tags/144">ensembl</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=145" resource="http://www.myexperiment.org/tags/145">entrez</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=178" resource="http://www.myexperiment.org/tags/178">gene</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=1190" resource="http://www.myexperiment.org/tags/1190">genes</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=516" resource="http://www.myexperiment.org/tags/516">uniprot</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=412" resource="http://www.myexperiment.org/tags/412">qtl</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=412" resource="http://www.myexperiment.org/tags/412">qtl</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=3154" resource="http://www.myexperiment.org/tags/3154">adasd</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=17" resource="http://www.myexperiment.org/workflows/17" version="2">
+  <id>17</id>
+  <title>Remove duplicate strings</title>
+  <description>This workflow takes in two list of strings and then concatenates them together. Any duplicates that are present are then removed, and the resulting file is returned back to the user.</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:36:03 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/17/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/17/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/17/download/remove_duplicate_strings_10375.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=595" resource="http://www.myexperiment.org/tags/595">remove</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=598" resource="http://www.myexperiment.org/tags/598">duplicate</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=599" resource="http://www.myexperiment.org/tags/599">string</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=548" resource="http://www.myexperiment.org/tags/548">strings</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=760" resource="http://www.myexperiment.org/tags/760">design pattern</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=18" resource="http://www.myexperiment.org/workflows/18" version="2">
+  <id>18</id>
+  <title>Back translate a protein sequence into a dna sequence</title>
+  <description>&lt;p&gt;This workflow back translates a protein sequence into a DNA sequence.&lt;/p&gt;&#13;
+&lt;p&gt;Example input for this workflow is:&lt;/p&gt;&#13;
+&lt;pre&gt;&#13;
+MATDDSIIVLDDDDEDEAAAQPGPSNLPPNPASTGPGPGLSQQATGLSEPRVDGGSSNSG&#13;
+SRKCYKLDNEKLFEEFLELCKTETSDHPEVVPFLHKLQQRAQSVFLASAEFCNILSRVLA&#13;
+RSRKRPAKIYVYINELCTVLKAHSIKKKLNLAPAASTTSEASGPNPPTEPPSDLTNTENT&#13;
+ASEASRTRGSRRQIQRLEQLLALYVAEIRRLQEKELDLSELDDPDSSYLQEARLKRKLIR&#13;
+LFGRLCELKDCSSLTGRVIEQRIPYRGTRYPEVNRRIERLINKPGLDTFPDYGDVLRAVE&#13;
+KAATRHSLGLPRQQLQLLAQDAFRDVGVRLQERRHLDLIYNFGCHLTDDYRPGVDPALSD&#13;
+PTLARRLRENRTLAMNRLDEVISKYAMMQDKTEEGERQKRRARLLGTAPQPSDPPKASSE&#13;
+SGEGPSGMASQECPTTSKAETDDDDDDDDDDDDEDNEESEEEEEEEEEEKEATEDEDEDL&#13;
+EQLQEDQGGDEEEEGGDNEGNESPTSPSDFFHRRNSEPAEGLRTPEGQQKRGLTETPASP&#13;
+PGASLDPPSTDAESSGEQLLEPLLGDESPVSQLAELEMEALPEERDISSSRKKSEDSLPT&#13;
+ILENGAAVVTSTSVNGRVSSHTWRDASPPSKRFRKEKKQLGSGLLGNSYIKEPMAQQDSG&#13;
+QNTSVQPMPSPPLASVASVADSSTRVDSPSHELVTSSLCSPSPSLLLQTPQAQSLRQCIY&#13;
+KTSVATQCDPEEIIVLSDSD&#13;
+&#13;
+&lt;/pre&gt;</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:36:03 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/18/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/18/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/18/download/back_translate_a_protein_sequence_into_a_dna_sequence_19857.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags/>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=19" resource="http://www.myexperiment.org/workflows/19" version="3">
+  <id>19</id>
+  <title>Mouse Microarray Analysis</title>
+  <description>&lt;p&gt;This workflow takes in probesets from and AffyMetrix micorarray experiment and returns: the genes ; gene start and end positions; chromosome where genes reside; ensembl trasncripts; SwissProt ids; affy probeset identifiers for chips Mouse430_2 and Mouse430a_2.&lt;/p&gt;&#13;
+&lt;p&gt;Example ids from the  Mouse430_2 affymetrix array are as follows (newline separated):&lt;/p&gt;&#13;
+&lt;p&gt;1447227_at&lt;br /&gt;&#13;
+1440624_at&lt;br /&gt;&#13;
+1436240_at&lt;br /&gt;&#13;
+1454904_at&lt;br /&gt;&#13;
+1435665_at&lt;br /&gt;&#13;
+1418148_at&lt;br /&gt;&#13;
+1429831_at&lt;/p&gt;</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:36:05 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/19/versions/3/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/19/versions/3/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=2" resource="http://www.myexperiment.org/licenses/2">by-sa</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/19/download/pathways_from_diff_expressed_genes_22895.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=462" resource="http://www.myexperiment.org/tags/462">shim</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=178" resource="http://www.myexperiment.org/tags/178">gene</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=600" resource="http://www.myexperiment.org/tags/600">expression</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=601" resource="http://www.myexperiment.org/tags/601">affmetrix</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=573" resource="http://www.myexperiment.org/tags/573">pathway-driven</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=574" resource="http://www.myexperiment.org/tags/574">data-driven</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=275" resource="http://www.myexperiment.org/tags/275">kegg</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=580" resource="http://www.myexperiment.org/tags/580">mouse</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=516" resource="http://www.myexperiment.org/tags/516">uniprot</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=589" resource="http://www.myexperiment.org/tags/589">cel</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=590" resource="http://www.myexperiment.org/tags/590">file</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=214" resource="http://www.myexperiment.org/tags/214">genotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=377" resource="http://www.myexperiment.org/tags/377">phenotype</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=119" resource="http://www.myexperiment.org/tags/119">disease</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=694" resource="http://www.myexperiment.org/tags/694">nbiconworkflows</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=305" resource="http://www.myexperiment.org/tags/305">microarray</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=305" resource="http://www.myexperiment.org/tags/305">microarray</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=445" resource="http://www.myexperiment.org/tags/445">RNA</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=20" resource="http://www.myexperiment.org/workflows/20" version="2">
+  <id>20</id>
+  <title>Remove null values</title>
+  <description>This workflow removes any null values from a list of strings</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:36:05 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/20/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/20/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/20/download/remove_null_values_27982.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=595" resource="http://www.myexperiment.org/tags/595">remove</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=596" resource="http://www.myexperiment.org/tags/596">nulls</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=462" resource="http://www.myexperiment.org/tags/462">shim</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=760" resource="http://www.myexperiment.org/tags/760">design pattern</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=21" resource="http://www.myexperiment.org/workflows/21" version="2">
+  <id>21</id>
+  <title>BLASTP with simplified results returned</title>
+  <description>&lt;p&gt;Perform a blastp search on protein sequence and extract information based on the user input, e.g. a list of GI numbers.  N.B. this workflow does not function correctly as it is designed for use with NCBI blast scripts. Some errors may occur. Please use two blast text file inputs for a secure result output.&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;Example input for this service are given below.&lt;/p&gt;&#13;
+&lt;p&gt;query:&lt;/p&gt;&#13;
+&lt;p&gt;&amp;gt;MySequence &lt;br /&gt;&#13;
+&lt;span style="font-size: smaller;"&gt;MATDDSIIVLDDDDEDEAAAQPGPSNLPPNPASTGPGPGLSQQATGLSEPRVDGGSS&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;NSGSRKCYKLDNEKLFEEFLELCKTETSDHPEVVPFLHKLQQRAQSVFLASAEFCNIL&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;SRVLARSRKRPAKIYVYINELCTVLKAHSIKKKLNLAPAASTTSEASGPNPPTEPPSDLT&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;NTENTASEASRTRGSRRQIQRLEQLLALYVAEIRRLQEKELDLSELDDPDSSYLQEAR&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;LKRKLIRLFGRLCELKDCSSLTGRVIEQRIPYRGTRYPEVNRRIERLINKPGLDTFPDY&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;GDVLRAVEKAATRHSLGLPRQQLQLLAQDAFRDVGVRLQERRHLDLIYNFGCHLTDD&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;YRPGVDPALSDPTLARRLRENRTLAMNRLDEVISKYAMMQDKTEEGERQKRRARLLG&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;TAPQPSDPPKASSESGEGPSGMASQECPTTSKAETDDDDDDDDDDDDEDNEESEE&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;EEEEEEEEKEATEDEDEDLEQLQEDQGGDEEEEGGDNEGNESPTSPSDFFHRRNS&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;EPAEGLRTPEGQQKRGLTETPASPPGASLDPPSTDAESSGEQLLEPLLGDESPVSQL&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;AELEMEALPEERDISSSRKKSEDSLPTILENGAAVVTSTSVNGRVSSHTWRDASPPSK&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;RFRKEKKQLGSGLLGNSYIKEPMAQQDSGQNTSVQPMPSPPLASVASVADSSTRVDS&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;span style="font-size: smaller;"&gt;PSHELVTSSLCSPSPSLLLQTPQAQSLRQCIYKTSVATQCDPEEIIVLSDSD&lt;/span&gt;&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;program:&lt;/p&gt;&#13;
+&lt;p&gt;blastp&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;database: DDBJ&lt;/p&gt;</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:36:06 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/21/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/21/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/21/download/blastp_with_simplified_results_returned_28648.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=39" resource="http://www.myexperiment.org/tags/39">bioinformatics</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=109" resource="http://www.myexperiment.org/tags/109">ddbj</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=455" resource="http://www.myexperiment.org/tags/455">sequence</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=464" resource="http://www.myexperiment.org/tags/464">similarity</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=49" resource="http://www.myexperiment.org/tags/49">BLAST</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=465" resource="http://www.myexperiment.org/tags/465">simplifier</tag>
+  </tags>
+</workflow>
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow uri="http://www.myexperiment.org/workflow.xml?id=22" resource="http://www.myexperiment.org/workflows/22" version="2">
+  <id>22</id>
+  <title>Simplify a BLAST text file</title>
+  <description>This workflow simplifies a BLAST text file into identifiers, descriptions and values (P, E-values). In order to extract the relevant ids etc. you need to pass the relevant string into the corresponding port, e.g. the default port being used is gi. This has been passed "gi". For any other ports simply pass in the string the SAME as the port name, e.g. seq_id, p, per etc.</description>
+  <type uri="http://www.myexperiment.org/type.xml?id=1" resource="http://www.myexperiment.org/content_types/1">Taverna 1</type>
+  <uploader resource="http://www.myexperiment.org/users/43" uri="http://www.myexperiment.org/user.xml?id=43">Paul Fisher</uploader>
+  <created-at>Wed Oct 03 18:36:06 UTC 2007</created-at>
+  <preview>http://www.myexperiment.org/workflows/22/versions/2/previews/full</preview>
+  <svg>http://www.myexperiment.org/workflows/22/versions/2/previews/svg</svg>
+  <license-type uri="http://www.myexperiment.org/license.xml?id=1" resource="http://www.myexperiment.org/licenses/1">by-nd</license-type>
+  <content-uri>http://www.myexperiment.org/workflows/22/download/simpliy_a_blast_text_file_23463.xml</content-uri>
+  <content-type>application/vnd.taverna.scufl+xml</content-type>
+  <tags>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=39" resource="http://www.myexperiment.org/tags/39">bioinformatics</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=482" resource="http://www.myexperiment.org/tags/482">substitution</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=484" resource="http://www.myexperiment.org/tags/484">summary</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=602" resource="http://www.myexperiment.org/tags/602">matrix</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=49" resource="http://www.myexperiment.org/tags/49">BLAST</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=464" resource="http://www.myexperiment.org/tags/464">similarity</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=455" resource="http://www.myexperiment.org/tags/455">sequence</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=603" resource="http://www.myexperiment.org/tags/603">gi</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=604" resource="http://www.myexperiment.org/tags/604">gene identifier</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=465" resource="http://www.myexperiment.org/tags/465">simplifier</tag>
+    <tag uri="http://www.myexperiment.org/tag.xml?id=605" resource="http://www.myexperiment.org/tags/605">simple</tag>
+  </tags>
+</workflow>
